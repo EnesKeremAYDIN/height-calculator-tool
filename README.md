@@ -9,7 +9,7 @@ If you want to add it in another language or if you want to shorten the code in 
 * C#
 * C++
 * Go
-* HTML
+* [HTML](https://github.com/EnesKeremAYDIN/height-calculator-tool/blob/main/calculator.html)
 * Java
 * [JavaScript](https://github.com/EnesKeremAYDIN/height-calculator-tool/blob/main/calculator.js)
 * [Python](https://github.com/EnesKeremAYDIN/height-calculator-tool/blob/main/calculator.py)
