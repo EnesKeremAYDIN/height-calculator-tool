@@ -11,7 +11,7 @@ If you want to add it in another language or if you want to shorten the code in 
 * Go
 * HTML
 * Java
-* [JavaScript](https://github.com/EnesKeremAYDIN/height-calculator-tool/blob/main/app.js)
-* [Python](https://github.com/EnesKeremAYDIN/height-calculator-tool/blob/main/app.py)
+* [JavaScript](https://github.com/EnesKeremAYDIN/height-calculator-tool/blob/main/calculator.js)
+* [Python](https://github.com/EnesKeremAYDIN/height-calculator-tool/blob/main/calculator.py)
 * R
 * Swift
