@@ -4,6 +4,6 @@ const readline = require("readline").createInterface({
 });
 
 readline.question("Input hour height (cm): ", inputHeight => {
-    console.log("Your height is " + inputHeight + " cm");
+    console.log("Your height is " + inputHeight + "cm");
     readline.close();
 });
