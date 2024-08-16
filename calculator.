@@ -1,0 +1,6 @@
+import Foundation
+
+print("Input your height (cm): ", terminator: "")
+if let input = readLine() {
+    print("Your height is \(input) cm")
+}
